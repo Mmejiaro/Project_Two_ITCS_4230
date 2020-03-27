@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "73dc976e-9b14-43fe-a950-0476ceadf765",
+            "Value": {
+                "id": "ca8ebf52-8d76-4d2c-b836-4adbdeffeaf0",
+                "resourcePath": "sprites\\spr_carTest\\spr_carTest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "78f6aa95-03e8-4e9c-a11f-63ddb9d9f089",
             "Value": {
                 "id": "309c6b4c-f1b1-453b-86be-2ab16c6d7de6",
