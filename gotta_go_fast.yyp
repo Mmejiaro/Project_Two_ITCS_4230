@@ -407,6 +407,14 @@
             }
         },
         {
+            "Key": "debdc621-e116-46bc-8ae5-cf480f817773",
+            "Value": {
+                "id": "76ae6543-aa88-428e-a83d-7b3b116605f2",
+                "resourcePath": "objects\/obj_speed\/obj_speed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e52be915-f632-476b-b5c9-0e891c645771",
             "Value": {
                 "id": "128a88e4-def4-42b7-afa4-32736a630934",
