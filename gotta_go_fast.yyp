@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "70c539e8-ca43-46c4-a979-8dfd0bf246ff",
+            "Value": {
+                "id": "d3f53cdf-c4b0-414c-bdfd-c24a9d4a6fcb",
+                "resourcePath": "rooms\/RaceTrack2\/RaceTrack2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "73dc976e-9b14-43fe-a950-0476ceadf765",
             "Value": {
                 "id": "ca8ebf52-8d76-4d2c-b836-4adbdeffeaf0",
