@@ -1,6 +1,6 @@
 
 {
-    "name": "room2",
+    "name": "RaceTrack1",
     "id": "147472fd-ecfe-4b49-af62-24d4a8a3e75d",
     "creationCodeFile": "",
     "inheritCode": false,
