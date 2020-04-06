@@ -65,6 +65,6 @@ if(speed > max_speed)
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 0532880C
-/// @DnDArgument : "expr" "direction - 90"
+/// @DnDArgument : "expr" "direction "
 /// @DnDArgument : "var" "image_angle"
-image_angle = direction - 90;
+image_angle = direction ;
