@@ -1,4 +1,4 @@
-max_speed = 6;
+max_speed = 7;
 
 turning_speed = 0.5;
 
