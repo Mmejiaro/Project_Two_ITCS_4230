@@ -82,7 +82,7 @@
             "Key": "124785fb-4640-4e6d-8b4f-1e032310dff5",
             "Value": {
                 "id": "9792da5f-012d-4e96-a8d7-c7d7f20894fd",
-                "resourcePath": "paths\\path1\\path1.yy",
+                "resourcePath": "paths\/path1\/path1.yy",
                 "resourceType": "GMPath"
             }
         },
@@ -116,6 +116,14 @@
                 "id": "85a9b651-b28e-48c5-b329-025b787a93c4",
                 "resourcePath": "objects\/obj_car\/obj_car.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1cf220c2-30ec-4af6-92b3-241f68c80aca",
+            "Value": {
+                "id": "5cde2d97-99e5-47b0-946e-aa044184ea51",
+                "resourcePath": "rooms\/RaceTrack3\/RaceTrack3.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -234,7 +242,7 @@
             "Key": "61988247-0cc9-4869-a7ef-6427f5d12a55",
             "Value": {
                 "id": "23ddffba-a1e6-453d-924e-32271fc85294",
-                "resourcePath": "paths\\path0\\path0.yy",
+                "resourcePath": "paths\/path0\/path0.yy",
                 "resourceType": "GMPath"
             }
         },
@@ -538,7 +546,7 @@
             "Key": "ec908d99-4a6f-4a99-a389-5be7c722cebf",
             "Value": {
                 "id": "f469362e-ba5d-4943-84c6-c0e492bb467d",
-                "resourcePath": "objects\\obj_challenger\\obj_challenger.yy",
+                "resourcePath": "objects\/obj_challenger\/obj_challenger.yy",
                 "resourceType": "GMObject"
             }
         },

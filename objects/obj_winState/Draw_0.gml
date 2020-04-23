@@ -52,3 +52,23 @@ draw_text_transformed(x + 0, y + 70, string("Time: ") + string(abs(obj_car.start
 /// @DnDArgument : "caption" "":""
 /// @DnDArgument : "text" "abs(obj_car.startSec - obj_car.endSec)"
 draw_text_transformed(x + 60, y + 70, string(":") + string(abs(obj_car.startSec - obj_car.endSec)), image_xscale + 0, image_yscale + 0, 0);
+
+/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
+/// @DnDVersion : 1
+/// @DnDHash : 1C86D1D4
+/// @DnDDisabled : 1
+/// @DnDArgument : "caption" ""Press Enter to Continue ""
+
+
+/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Pressed
+/// @DnDVersion : 1
+/// @DnDHash : 4C412DD8
+/// @DnDDisabled : 1
+/// @DnDArgument : "key" "vk_enter"
+/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+/// @DnDVersion : 1
+/// @DnDHash : 690D0A15
+/// @DnDDisabled : 1
+/// @DnDParent : 4C412DD8
+/// @DnDArgument : "room" "RaceTrack2"
+/// @DnDSaveInfo : "room" "70c539e8-ca43-46c4-a979-8dfd0bf246ff"
