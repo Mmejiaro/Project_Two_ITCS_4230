@@ -5,13 +5,6 @@
 /// @DnDArgument : "var" "turning_speed"
 turning_speed = 0.1;
 
-/// @DnDAction : YoYo Games.Instances.Destroy_Instance
-/// @DnDVersion : 1
-/// @DnDHash : 43BC6290
-/// @DnDDisabled : 1
-/// @DnDApplyTo : other
-
-
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 4F3BD0EB
