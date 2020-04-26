@@ -27,6 +27,7 @@ draw_text_transformed(x + 0, y + 40, string("Place:  ") + string(1), image_xscal
 /// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 /// @DnDVersion : 1
 /// @DnDHash : 2AB756B8
+/// @DnDDisabled : 1
 /// @DnDApplyTo : 172e6c7a-a778-4561-9e38-5489039b2274
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "70"
@@ -37,11 +38,12 @@ draw_text_transformed(x + 0, y + 40, string("Place:  ") + string(1), image_xscal
 /// @DnDArgument : "yscale_relative" "1"
 /// @DnDArgument : "caption" ""Time: ""
 /// @DnDArgument : "text" "abs(startMin - endMin)"
-with(obj_car) draw_text_transformed(x + 0, y + 70, string("Time: ") + string(abs(startMin - endMin)), image_xscale + 0, image_yscale + 0, 0);
+
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 /// @DnDVersion : 1
 /// @DnDHash : 698C4118
+/// @DnDDisabled : 1
 /// @DnDApplyTo : 172e6c7a-a778-4561-9e38-5489039b2274
 /// @DnDArgument : "x" "60"
 /// @DnDArgument : "x_relative" "1"
@@ -53,7 +55,7 @@ with(obj_car) draw_text_transformed(x + 0, y + 70, string("Time: ") + string(abs
 /// @DnDArgument : "yscale_relative" "1"
 /// @DnDArgument : "caption" "":""
 /// @DnDArgument : "text" "abs(startSec - endSec)"
-with(obj_car) draw_text_transformed(x + 60, y + 70, string(":") + string(abs(startSec - endSec)), image_xscale + 0, image_yscale + 0, 0);
+
 
 /// @DnDAction : YoYo Games.Common.If_Expression
 /// @DnDVersion : 1
