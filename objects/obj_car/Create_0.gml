@@ -14,3 +14,4 @@ finCount = 0;
 startMin = current_minute;
 startSec = current_second;
 finLine = true;
+global.pervious_room = room;

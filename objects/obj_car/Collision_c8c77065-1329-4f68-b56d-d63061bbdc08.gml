@@ -1,3 +1,4 @@
+
 if(finLine == true){
 	finCount += 1;
 	finLine = false;
@@ -9,6 +10,7 @@ if(finCount == 3)
 {
 	endMin = current_minute;
 	endSec = current_second;
-
+	
+	
 	room_goto(rm_Win);
 }
