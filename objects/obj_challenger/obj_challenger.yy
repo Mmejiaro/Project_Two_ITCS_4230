@@ -131,6 +131,20 @@
             "value": "0",
             "varName": "laps",
             "varType": 0
+        },
+        {
+            "id": "2e1dcf5a-2ed2-49c0-91c0-dadac831c2fa",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "spr_car_2",
+            "varName": "car_sprite",
+            "varType": 5
         }
     ],
     "solid": false,
