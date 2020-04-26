@@ -15,3 +15,6 @@ startMin = current_minute;
 startSec = current_second;
 finLine = true;
 global.pervious_room = room;
+
+startX = x;
+startY = y;
