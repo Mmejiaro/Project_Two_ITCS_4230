@@ -3,7 +3,6 @@ if !audio_is_playing(Countdown){
 	speed += acceleration;
 	stuckB = false;
 	stuckF = false;
-	
 }
 	else{
 		stuckF = true;
