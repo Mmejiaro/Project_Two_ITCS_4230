@@ -13,6 +13,7 @@ collSp = speed + 2;
 finCount = 0;
 finLine = true;
 global.pervious_room = room;
+global.done = false;
 
 startX = x;
 startY = y;

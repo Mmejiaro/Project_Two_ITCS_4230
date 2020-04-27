@@ -145,6 +145,20 @@
             "value": "spr_car_2",
             "varName": "car_sprite",
             "varType": 5
+        },
+        {
+            "id": "0331734d-5783-4ebb-a0fd-d74605419b44",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1",
+            "varName": "car",
+            "varType": 1
         }
     ],
     "solid": false,

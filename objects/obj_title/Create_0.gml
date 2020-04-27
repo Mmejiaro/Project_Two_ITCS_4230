@@ -3,5 +3,5 @@
 /// @DnDHash : 14B6A419
 /// @DnDArgument : "soundid" "TitleScreen"
 /// @DnDArgument : "loop" "1"
-/// @DnDSaveInfo : "soundid" "4ac33187-eb3f-470a-97b6-ed3aa9350f70"
+/// @DnDSaveInfo : "soundid" "ecafa8fc-4c42-40f4-bd26-2805286713e5"
 audio_play_sound(TitleScreen, 0, 1);

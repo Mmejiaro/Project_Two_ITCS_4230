@@ -28,6 +28,14 @@ acc = 0.03;
 /// @DnDArgument : "var" "lap_count"
 lap_count = 0;
 
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 369B0204
+/// @DnDParent : 136E8D7C
+/// @DnDArgument : "value" "false"
+/// @DnDArgument : "var" "finished"
+global.finished = false;
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 44CCB0CB

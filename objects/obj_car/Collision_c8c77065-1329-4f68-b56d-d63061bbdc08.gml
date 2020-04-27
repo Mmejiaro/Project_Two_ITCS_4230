@@ -7,6 +7,6 @@ if(finLine == true){
 
 if(finCount == 3)
 {
-	
+	global.done = true;
 	room_goto(rm_Win);
 }
