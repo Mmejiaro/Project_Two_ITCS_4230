@@ -1,5 +1,5 @@
 {
-    "id": "4ac33187-eb3f-470a-97b6-ed3aa9350f70",
+    "id": "ecafa8fc-4c42-40f4-bd26-2805286713e5",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "TitleScreen",
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.16
+    "volume": 1
 }

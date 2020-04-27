@@ -1,10 +1,10 @@
 /// @DnDAction : YoYo Games.Audio.If_Audio_Playing
 /// @DnDVersion : 1
 /// @DnDHash : 647CC304
-/// @DnDArgument : "soundid" "mCountdown"
+/// @DnDArgument : "soundid" "Countdown"
 /// @DnDArgument : "not" "1"
-/// @DnDSaveInfo : "soundid" "59be3186-5b31-4531-9f8d-b33b1e208efa"
-var l647CC304_0 = mCountdown;
+/// @DnDSaveInfo : "soundid" "55a363c3-f5cf-41d3-8d1a-977a33d81db3"
+var l647CC304_0 = Countdown;
 if (!audio_is_playing(l647CC304_0))
 {
 	/// @DnDAction : YoYo Games.Paths.Path_Speed

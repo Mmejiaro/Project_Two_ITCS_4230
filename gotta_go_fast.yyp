@@ -215,14 +215,6 @@
             }
         },
         {
-            "Key": "4ac33187-eb3f-470a-97b6-ed3aa9350f70",
-            "Value": {
-                "id": "712054f4-e559-4557-a409-d92cb5647e2e",
-                "resourcePath": "sounds\/TitleScreen\/TitleScreen.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "4c08887a-3ab6-4e61-b090-0ac2397ca28b",
             "Value": {
                 "id": "550db5cc-1357-4ff5-bf44-dc46167895a9",
@@ -255,10 +247,10 @@
             }
         },
         {
-            "Key": "59be3186-5b31-4531-9f8d-b33b1e208efa",
+            "Key": "55a363c3-f5cf-41d3-8d1a-977a33d81db3",
             "Value": {
-                "id": "48355969-8202-4f9d-97f2-4710a91c8b09",
-                "resourcePath": "sounds\/mCountdown\/mCountdown.yy",
+                "id": "8ab1c1b4-990d-4b20-86c2-30df0ca13eaf",
+                "resourcePath": "sounds\/Countdown\/Countdown.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -300,6 +292,14 @@
                 "id": "27df06fd-67e9-4189-9075-d774ec5a8f54",
                 "resourcePath": "views\/62dfb4a0-096a-4e16-aa0e-974f161d61ec.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "63e268a0-bb9d-4c67-8402-6de058f58a41",
+            "Value": {
+                "id": "d89ca3f8-141e-4431-9eeb-58d5f0d37c02",
+                "resourcePath": "sounds\/BackgroundMusic\/BackgroundMusic.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -660,6 +660,14 @@
                 "id": "f469362e-ba5d-4943-84c6-c0e492bb467d",
                 "resourcePath": "objects\/obj_challenger\/obj_challenger.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ecafa8fc-4c42-40f4-bd26-2805286713e5",
+            "Value": {
+                "id": "939755e9-2497-49f8-aad2-75210c886122",
+                "resourcePath": "sounds\/TitleScreen\/TitleScreen.yy",
+                "resourceType": "GMSound"
             }
         },
         {
