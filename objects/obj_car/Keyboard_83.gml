@@ -7,6 +7,7 @@ if !audio_is_playing(Countdown){
 		}
 	}
 	else{
+		//audio_play_sound(HitWall,0,false);
 		stuckB = true;
 		speed = 0;
 	}

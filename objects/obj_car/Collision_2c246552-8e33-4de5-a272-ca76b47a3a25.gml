@@ -17,6 +17,13 @@ with(other) instance_destroy();
 /// @DnDArgument : "steps" "100"
 alarm_set(0, 100);
 
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 1A11798B
+/// @DnDArgument : "soundid" "GoFastSound"
+/// @DnDSaveInfo : "soundid" "ab4bb883-15c5-4e91-aff9-2b974941fe38"
+audio_play_sound(GoFastSound, 0, 0);
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 38276517

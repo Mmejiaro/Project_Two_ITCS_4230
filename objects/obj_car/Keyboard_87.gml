@@ -5,6 +5,7 @@ if !audio_is_playing(Countdown){
 	stuckF = false;
 }
 	else{
+		//audio_play_sound(HitWall,0,false);
 		stuckF = true;
 		speed = 0;
 	}
