@@ -1,3 +1,5 @@
+//if !audio_is_playing(mCountdown){
+
 sprite_index = spr_car;
 image_index = 0;
 if(!keyboard_check(ord("W")) && speed > 0){
@@ -22,7 +24,7 @@ if(speed > max_speed){
 }
 
 image_angle = direction -90;
-
+//}
 
 /*
 //if there is a block infront it will make the character not be able to walk

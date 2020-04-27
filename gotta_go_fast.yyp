@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "010918a9-1819-4de7-8df9-2d8665665212",
+            "Value": {
+                "id": "47e3c28d-d02f-483a-b154-821d66d160d2",
+                "resourcePath": "objects\/obj_music\/obj_music.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "01d1a482-3c0b-4519-9ec5-a6e64133f7c2",
             "Value": {
                 "id": "35075830-eeab-4bb8-bacd-27076d0035db",
@@ -247,6 +255,14 @@
             }
         },
         {
+            "Key": "59be3186-5b31-4531-9f8d-b33b1e208efa",
+            "Value": {
+                "id": "48355969-8202-4f9d-97f2-4710a91c8b09",
+                "resourcePath": "sounds\/mCountdown\/mCountdown.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "59db0ee1-85be-409a-8ceb-2039067579f5",
             "Value": {
                 "id": "916c8697-58de-4013-96ef-a3c67d1f43d6",
@@ -332,6 +348,14 @@
                 "id": "309c6b4c-f1b1-453b-86be-2ab16c6d7de6",
                 "resourcePath": "views\/78f6aa95-03e8-4e9c-a11f-63ddb9d9f089.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "799e50d1-2735-43c3-b258-a3cd9415adfb",
+            "Value": {
+                "id": "83148a09-c94a-4acd-a9d9-692f46b45201",
+                "resourcePath": "objects\/fadeWorkinProgress\/fadeWorkinProgress.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -583,10 +607,10 @@
             }
         },
         {
-            "Key": "d679c6c9-4492-44e4-867b-f2459d8edb5e",
+            "Key": "d89ceed9-837a-4118-9142-6cf45e4eab37",
             "Value": {
-                "id": "64cc446d-c15a-4e61-a15a-45de29f917ec",
-                "resourcePath": "sounds\/countdown\/countdown.yy",
+                "id": "a70baf87-ed5b-4523-bf55-ea45044a6783",
+                "resourcePath": "sounds\/accelerate\/accelerate.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -612,6 +636,14 @@
                 "id": "128a88e4-def4-42b7-afa4-32736a630934",
                 "resourcePath": "sprites\/spr_jumpad_3\/spr_jumpad_3.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e853eb87-2bc3-4c88-855e-f97b53635eb9",
+            "Value": {
+                "id": "431ce57c-fd4b-4afe-918f-f93a789e1a20",
+                "resourcePath": "sounds\/Background\/Background.yy",
+                "resourceType": "GMSound"
             }
         },
         {
