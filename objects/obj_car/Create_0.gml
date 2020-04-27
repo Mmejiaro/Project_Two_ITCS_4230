@@ -11,10 +11,11 @@ direction = 90;
 collSp = speed + 2;
 
 finCount = 0;
-startMin = current_minute;
-startSec = current_second;
 finLine = true;
 global.pervious_room = room;
 
 startX = x;
 startY = y;
+
+stuckF = false;
+stuckB = false;

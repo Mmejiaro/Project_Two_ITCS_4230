@@ -22,8 +22,12 @@ if(speed > max_speed){
 		speed = max_speed;
 	}
 }
-
+if(stuckF == true and stuckB == true){
+	speed = -1;
+}
 image_angle = direction -90;
+
+
 //}
 
 /*
