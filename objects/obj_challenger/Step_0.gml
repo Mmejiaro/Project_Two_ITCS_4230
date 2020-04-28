@@ -1,3 +1,11 @@
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 5A194BDE
+/// @DnDArgument : "spriteind" "spr_car_2"
+/// @DnDSaveInfo : "spriteind" "59db0ee1-85be-409a-8ceb-2039067579f5"
+sprite_index = spr_car_2;
+image_index = 0;
+
 /// @DnDAction : YoYo Games.Audio.If_Audio_Playing
 /// @DnDVersion : 1
 /// @DnDHash : 647CC304
