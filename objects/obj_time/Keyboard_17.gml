@@ -6,6 +6,12 @@ var l01A7305F_0;
 l01A7305F_0 = keyboard_check_pressed(ord("R"));
 if (l01A7305F_0)
 {
+	/// @DnDAction : YoYo Games.Audio.Stop_All_Audio
+	/// @DnDVersion : 1
+	/// @DnDHash : 1E8B0477
+	/// @DnDParent : 01A7305F
+	audio_stop_all();
+
 	/// @DnDAction : YoYo Games.Rooms.Restart_Room
 	/// @DnDVersion : 1
 	/// @DnDHash : 5F72212E
