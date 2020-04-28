@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "1160612c-3c5b-4c56-a660-c087beab6cdf",
+            "Value": {
+                "id": "88aa7964-e4c6-4efd-9d20-e2909382e655",
+                "resourcePath": "sounds\/CountdownShort\/CountdownShort.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "123de12c-cf90-4d3e-83b9-3cfc4b341e80",
             "Value": {
                 "id": "242e11a8-7824-49b6-90ba-6465893a0266",
@@ -492,6 +500,14 @@
                 "id": "153b89cc-5867-4912-bcbb-224126d3fd74",
                 "resourcePath": "views\/9df2fddc-25a3-48a8-a2d5-e3f1a5e76df1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9e6a1117-bfa0-46a7-814f-2e406ccab1b8",
+            "Value": {
+                "id": "479602c4-ce28-426c-919e-9aa91e041b49",
+                "resourcePath": "objects\/obj_music23\/obj_music23.yy",
+                "resourceType": "GMObject"
             }
         },
         {

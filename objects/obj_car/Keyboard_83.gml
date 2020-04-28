@@ -1,4 +1,4 @@
-if !audio_is_playing(Countdown){
+if !audio_is_playing(Countdown)&& !audio_is_playing(CountdownShort){
 	if(place_free(x-lengthdir_x(2,direction), y-lengthdir_y(2,direction))){
 		if(speed <= 0){
 			speed = -1;
