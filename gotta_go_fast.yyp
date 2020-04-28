@@ -471,6 +471,14 @@
             }
         },
         {
+            "Key": "956074d9-780c-49b0-8c99-911bcd18b5a5",
+            "Value": {
+                "id": "ac46c837-2920-45a4-bfec-b1618674e037",
+                "resourcePath": "sounds\/winner\/winner.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "9aaf6996-c60a-444c-8c57-51387286e4b7",
             "Value": {
                 "id": "81471aa9-58be-4e2a-b4f3-072544807a3f",
@@ -700,6 +708,14 @@
                 "id": "88c32ec4-2924-4a16-b046-674bc6ae81c3",
                 "resourcePath": "sprites\/spr_nos\/spr_nos.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dd295260-1602-4e1f-aedb-160d8d659b41",
+            "Value": {
+                "id": "e39a9b99-9670-4824-b9f4-199385b4ad71",
+                "resourcePath": "objects\/obj_musicWInner\/obj_musicWInner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
